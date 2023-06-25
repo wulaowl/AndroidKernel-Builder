@@ -46,8 +46,8 @@
   {
     "kernelSource": {
       "name": "Thyme-Google",
-      "repo": "https://github.com/UtsavBalar1231/kernel_xiaomi_sm8250",
-      "branch": "android13-stable",
+      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "branch": "lineage-20.0",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
