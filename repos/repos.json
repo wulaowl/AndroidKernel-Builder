@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "gki-5.10",
-      "repo": "https://github.com/wulaowl/android_gki_kernel_5.10_common",
-      "branch": "android12-5.10",
+      "name": "1997",
+      "repo": "https://github.com/ztc1997/android_gki_kernel_5.10_common",
+      "branch": "android12-5.10-2024-08",
       "device": "",
       "defconfig": "gki_defconfig"
     },
