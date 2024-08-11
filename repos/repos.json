@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "1997",
-      "repo": "https://github.com/ztc1997/android_gki_kernel_5.10_common",
-      "branch": "android12-5.10-2024-08",
-      "device": "",
-      "defconfig": "gki_defconfig"
+      "name": "8475",
+      "repo": "https://github.com/wulaowl/kernel_nothing_sm8475",
+      "branch": "rebase-2",
+      "device": "waipio",
+      "defconfig": "gki_defconfig vendor/waipio_GKI.config"
     },
     "withKernelSU": false,
     "toolchains": [
