@@ -2,17 +2,17 @@
   {
     "kernelSource": {
       "name": "gki-5.10",
-      "repo": "https://github.com/wulaowl/gki-5.10",
-      "branch": "villhaze-new",
+      "repo": "https://github.com/wulaowl/android_gki_kernel_5.10_common",
+      "branch": "android12-5.10",
       "device": "",
       "defconfig": "gki_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://github.com/kdrag0n/proton-clang",
-        "branch": "master",
-        "name": "proton-clang",
+        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/refs/heads/aml_ads_341826060/clang-r487747c/",
+        "branch": "",
+        "name": "clang",
         "binPath": ["bin"]
       }
     ],
