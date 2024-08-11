@@ -10,10 +10,10 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/refs/heads/aml_ads_341826060/clang-r487747c/",
-        "branch": "",
-        "name": "clang",
-        "binPath": ["bin"]
+    "repo": "https://github.com/kdrag0n/proton-clang",
+    "branch": "master",
+    "name": "proton-clang",
+    "binPath": ["./bin"]
       }
     ],
     "ccache": false,
