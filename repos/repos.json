@@ -5,7 +5,7 @@
       "repo": "https://github.com/wulaowl/kernel_nothing_sm8475",
       "branch": "rebase-2",
       "device": "",
-      "defconfig": "vendor/waipio_GKI.config"
+      "defconfig": "gki_defconfig vendor/waipio_GKI.config"
     },
     "withKernelSU": false,
     "toolchains": [
